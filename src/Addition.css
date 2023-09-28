@@ -1,0 +1,50 @@
+*{
+    background-color: cornsilk;
+}
+
+h1, p {
+    font-family: cursive;
+    color: #333;
+}
+
+h1 {
+    font-size: 3em;
+    text-align: center;
+}
+
+p{
+    font-size: 0.8em;
+    text-align: center;
+    font-weight: 800;
+}
+
+.container-main {
+    margin: auto;
+    width: 25%;
+    padding: 10px;
+    text-align: center;
+}
+
+.text {
+    text-align: center;
+    display: block;
+    width: 100%;
+    margin-top: 20px;
+    background-color: #333;
+    color: aliceblue;
+    padding: 5px;
+}
+
+.button {
+    margin: 20px;
+    padding: 5px;
+    width: 75px;
+}
+
+.sbtBtn {
+    background: #41f95d;
+}
+
+.clrBtn {
+    background: #2f4df7;
+}
